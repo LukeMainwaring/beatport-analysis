@@ -9,7 +9,7 @@ Other attributes to include and visualize
 - average song length of genres (and how it's changed over time)
 - most popular keys of genres (and how it's changed over time)
 - most popular genres by record label (and how it's changed over time)
-- \*When looking at these attributes, consider weighting them based on their score/rank. For example, G min might be the most common key in Bass House, but within Bass House D maj is more likely to top the chart or is trending upwards.
+- \*When looking at these attributes, consider weighting them based on their score/rank. For example, G min might be the most common key in Bass House, but within Bass House D maj is more likely to top the chart or is trending upwards. Also wondering though, is a #1 song's genre 100x more important than a #100 of the same attribute when calculating popularity?
 
 First idea:
 
