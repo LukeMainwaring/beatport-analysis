@@ -17,6 +17,7 @@ First idea:
 - run the webscraping function with a scheduler (every 3 days?) and keep in MySql database
 - wrap backend in Flask and create controllers that return relevant information -> for each controller that returns an attribute there should be one that returns all and one that's constrained to start/end times
 - consider some form of caching if it takes a long time to convert mysql db into pandas df
+- to make dates easier to arrange in a time series, might be worth converting to integer value, i.e. # days since first day recorded
 
 Notes:
 
