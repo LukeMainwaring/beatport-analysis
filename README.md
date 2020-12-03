@@ -22,5 +22,6 @@ First idea:
 Notes:
 
 - For charts/data viz, I'm starting off with nivo, since the design is cool and playful, but I might include Victory or another library after testing it out.
+- Michael from work showed me ObservableHQ, which looks interesting but need to look into it more
 
 - Use this as intuition as to when you should manipulate data with SQL vs Pandas - https://www.quora.com/In-what-situations-should-you-use-SQL-instead-of-Pandas-as-a-data-scientist#:~:text=A%20Pandas%20dataframe%20is%20a,munging%20and%20wrangling%20faster%20also.

@@ -5999,103 +5999,303 @@ Rank,Length,Released,BPM,Key,Genre,Label,Date,Track_ID
 98,4:36,2020-10-02,125.0,A♯ maj,Funky / Groove / Jackin' House,PornoStar Records,2020-11-24,14216378.0
 99,5:14,2020-08-07,127.0,A min,Tech House,MUSE,2020-11-24,13964651.0
 100,8:04,2020-11-13,128.0,D min,Minimal / Deep Tech,Moss Co.,2020-11-24,14344102.0
-1,6:36,2020-11-13,126,A♯ min,Tech House,Sola,2020-11-27,14477010
-2,6:41,2020-10-16,120,D maj,Melodic House & Techno,NINL,2020-11-27,14323099
-3,5:41,2020-10-23,125,C min,Tech House,Glasgow Underground,2020-11-27,14350633
-4,5:45,2020-10-30,125,A♯ min,House,D4 D4NCE,2020-11-27,14385837
-5,6:18,2020-11-20,140,A min,Techno (Peak Time / Driving),KNTXT,2020-11-27,14420036
-6,5:18,2020-11-20,140,F maj,Techno (Peak Time / Driving),KNTXT,2020-11-27,14420035
-7,5:52,2020-11-20,126,C min,House,Black Book Records,2020-11-27,14454353
-8,6:04,2020-11-20,135,C min,Trance,Armada Music,2020-11-27,14432397
-9,6:55,2020-10-30,127,C maj,Melodic House & Techno,RCA Records Label,2020-11-27,14360227
-10,6:08,2020-10-23,125,C min,Tech House,Catch & Release,2020-11-27,14249902
-11,7:00,2020-11-20,130,B min,Techno (Peak Time / Driving),Terminal M,2020-11-27,14365179
-12,5:33,2020-10-29,124,A min,Tech House,Medium Rare Recordings,2020-11-27,14340168
-13,5:26,2020-11-20,125,A♭ maj,Tech House,FFRR,2020-11-27,14512902
-14,5:45,2020-10-30,125,F maj,Tech House,Sink or Swim,2020-11-27,14348118
-15,6:33,2020-11-20,127,C min,Minimal / Deep Tech,Cuttin' Headz,2020-11-27,14458735
-16,7:28,2020-10-26,130,A♯ min,Techno (Peak Time / Driving),Drumcode,2020-11-27,14312296
-17,6:36,2020-11-20,126,F♯ maj,House,REALM Records,2020-11-27,14436359
-18,5:43,2020-11-20,142,D maj,Techno (Peak Time / Driving),KNTXT,2020-11-27,14420037
-19,4:58,2020-11-20,124,A♯ min,Dance / Electro Pop,Higher Ground (Mad Decent),2020-11-27,14525139
-20,5:41,2020-10-23,124,A min,House,Defected,2020-11-27,14350949
-21,7:41,2020-11-16,130,D maj,Techno (Peak Time / Driving),Drumcode,2020-11-27,14447085
-22,7:31,2020-09-18,130,G min,Techno (Peak Time / Driving),Perfekt Groove Recordings,2020-11-27,14109015
-23,5:28,2020-11-20,142,A♯ maj,Hard Techno,KNTXT,2020-11-27,14420038
-24,6:13,2020-11-20,129,A min,Minimal / Deep Tech,Locus,2020-11-27,14458786
-25,5:34,2020-11-20,86,B min,Drum & Bass,Sofa Sound,2020-11-27,14426013
-26,8:37,2020-11-16,130,C min,Techno (Peak Time / Driving),Drumcode,2020-11-27,14447083
-27,6:05,2020-11-13,130,A min,Techno (Peak Time / Driving),Relief,2020-11-27,14498658
-28,6:43,2020-07-06,125,D maj,Melodic House & Techno,Recovery Collective,2020-11-27,13798519
-29,6:12,2020-10-09,125,A♯ maj,House,Defected,2020-11-27,14279080
-30,6:36,2020-09-18,126,A♯ maj,House,Sola,2020-11-27,14132025
-31,6:44,2020-10-16,124,D♯ min,Deep House,RADIANT.,2020-11-27,14330307
-32,6:51,2020-11-13,134,F maj,Techno (Peak Time / Driving),Exhale,2020-11-27,14398845
-33,6:02,2020-10-16,125,C min,House,Toolroom,2020-11-27,14283733
-34,9:12,2020-09-11,125,A min,Melodic House & Techno,METAPHYSICAL,2020-11-27,14043445
-35,5:04,2020-11-20,128,D♯ min,Tech House,Hot Creations,2020-11-27,14458811
-36,5:48,2020-10-16,124,G maj,Tech House,Glasgow Underground,2020-11-27,14320855
-37,6:53,2020-11-19,122,B min,Melodic House & Techno,Diynamic,2020-11-27,14461077
-38,8:40,2020-11-13,120,A♯ min,Progressive House,The Soundgarden,2020-11-27,14410470
-39,7:27,2020-07-31,130,G min,Techno (Peak Time / Driving),Reload Records,2020-11-27,13922322
-40,6:09,2020-10-30,125,G min,Tech House,Universal-Island Records Ltd.,2020-11-27,14400759
-41,6:29,2020-08-28,124,A♯ min,House,Toolroom,2020-11-27,14050560
-42,7:17,2020-11-19,124,D maj,Melodic House & Techno,Odd One Out,2020-11-27,14554737
-43,6:53,2020-11-12,126,A min,Minimal / Deep Tech,Moon Harbour Recordings,2020-11-27,14365163
-44,6:43,2020-11-13,126,A min,Tech House,Saved Records,2020-11-27,14424502
-45,5:19,2020-10-02,127,A min,Tech House,Defected,2020-11-27,14257667
-46,8:20,2020-11-16,123,D maj,Melodic House & Techno,Watergate Records,2020-11-27,14447508
-47,6:50,2020-10-09,125,D min,Progressive House,Einmusika Recordings,2020-11-27,14221208
-48,6:43,2020-11-20,121,F maj,Organic House / Downtempo,TRYBESof,2020-11-27,14397675
-49,7:43,2020-11-20,138,D maj,Trance,Reaching Altitude,2020-11-27,14398128
-50,4:39,2020-11-06,86,A♯ min,Drum & Bass,1985 Music,2020-11-27,14327394
-51,6:43,2020-11-13,125,F maj,House,Defected,2020-11-27,14438263
-52,7:52,2020-11-16,130,G min,Techno (Peak Time / Driving),Drumcode,2020-11-27,14447084
-53,5:49,2020-10-30,123,G min,Deep House,Glasgow Underground,2020-11-27,14336152
-54,4:54,2020-10-30,124,B maj,Dance / Electro Pop,Universal-Island Records Ltd.,2020-11-27,14462229
-55,6:30,2020-07-17,124,D min,Afro House,SP Recordings,2020-11-27,13781081
-56,8:16,2020-11-13,126,F maj,Melodic House & Techno,BMG Rights Management (UK) Ltd,2020-11-27,14455986
-57,7:27,2020-11-13,122,B min,Melodic House & Techno,Monkey Project,2020-11-27,14363144
-58,6:47,2020-11-06,126,F maj,Progressive House,JEE Productions,2020-11-27,14379919
-59,6:12,2020-11-13,126,F maj,Deep House,Glasgow Underground,2020-11-27,14453356
-60,2:55,2020-11-06,126,F maj,Bass House,House Call,2020-11-27,14454368
-61,6:23,2020-10-30,123,A♯ maj,Melodic House & Techno,RCA Records Label,2020-11-27,14360236
-62,6:22,2020-11-13,138,A min,Trance,Armind (Armada),2020-11-27,14409471
-63,4:06,2020-10-08,128,D♯ min,Electronica,Ninja Tune,2020-11-27,14242738
-64,6:16,2020-11-20,130,E min,Techno (Peak Time / Driving),1605,2020-11-27,14492495
-65,6:48,2020-11-19,124,D♯ maj,Melodic House & Techno,Odd One Out,2020-11-27,14554738
-66,7:52,2020-11-20,127,A min,Minimal / Deep Tech,Locus,2020-11-27,14458787
-67,3:24,2020-10-30,116,F maj,Drum & Bass,Born On Road,2020-11-27,14359576
-68,6:33,2020-10-23,130,D min,Techno (Peak Time / Driving),1605,2020-11-27,14282265
-69,3:46,2020-09-25,120,B maj,Dance / Electro Pop,Atlantic Records,2020-11-27,14278848
-70,8:59,2020-11-13,122,F maj,Progressive House,Replug,2020-11-27,14388817
-71,5:46,2020-11-20,130,A maj,Minimal / Deep Tech,Solid Grooves Raw,2020-11-27,14464351
-72,6:22,2020-06-26,126,B min,House,Defected,2020-11-27,13775146
-73,5:47,2020-11-20,126,A min,House,Toolroom,2020-11-27,14471467
-74,5:54,2020-08-21,121,C♯ min,Nu Disco / Disco,Tasty Recordings,2020-11-27,13965507
-75,7:30,2020-11-20,120,D min,Organic House / Downtempo,TRYBESof,2020-11-27,14397676
-76,7:23,2020-10-02,122,B min,Deep House,8Bit,2020-11-27,13937565
-77,4:22,2020-09-04,126,G min,Tech House,Soleado Recordings,2020-11-27,14083803
-78,7:38,2020-11-02,129,A min,Techno (Peak Time / Driving),Say What?,2020-11-27,14351220
-79,6:42,2020-11-16,127,C min,Trance,Anjunabeats,2020-11-27,14445705
-80,4:30,2020-10-26,175,A min,Drum & Bass,Jungle Cakes,2020-11-27,14267810
-81,5:11,2020-11-21,87,G min,Drum & Bass,Manifestus Entertainment,2020-11-27,14525054
-82,9:22,2020-11-10,128,E maj,Dance / Electro Pop,mau5trap,2020-11-27,14431717
-83,6:36,2020-11-13,130,D♯ min,Trance,Anjunabeats,2020-11-27,14490496
-84,5:27,2020-10-06,121,C min,Melodic House & Techno,Anjunadeep,2020-11-27,14242828
-85,5:27,2020-11-13,132,C min,Garage / Bassline / Grime,Ministry of Sound Recordings,2020-11-27,14434674
-86,4:07,2020-11-13,128,E maj,Big Room,Musical Freedom,2020-11-27,14385797
-87,7:22,2020-08-28,124,A♯ maj,House,Classic Music Company,2020-11-27,14064783
-88,7:23,2020-10-30,123,C min,Progressive House,Ready Mix Records,2020-11-27,14341458
-89,5:14,2020-08-07,127,A min,Tech House,MUSE,2020-11-27,13964651
-90,7:07,2020-11-20,128,F maj,Tech House,Kneaded Pains,2020-11-27,14552775
-91,4:57,2020-11-05,85,G maj,Drum & Bass,Souped Up Records,2020-11-27,14383288
-92,3:23,2020-09-25,86,E min,Drum & Bass,Dope Ammo,2020-11-27,14227317
-93,6:14,2020-11-16,125,G♯ maj,Progressive House,Capital Heaven,2020-11-27,14463203
-94,7:29,2020-10-30,123,D♯ min,Melodic House & Techno,RCA Records Label,2020-11-27,14360237
-95,7:02,2020-10-26,138,D♯ min,Trance,Nocturnal Knights Reworked,2020-11-27,14278711
-96,5:30,2020-10-23,127,C♯ min,Tech House,Hot Creations,2020-11-27,14312289
-97,7:24,2020-08-14,123,F maj,Progressive House,Perspectives Digital,2020-11-27,13960351
-98,7:09,2020-11-20,130,A min,Minimal / Deep Tech,Locus,2020-11-27,14458789
-99,4:42,2020-11-12,87,F min,Drum & Bass,RAM Records,2020-11-27,14424492
-100,5:10,2020-10-30,123,B min,Melodic House & Techno,RCA Records Label,2020-11-27,14360239
+1,6:36,2020-11-13,126.0,A♯ min,Tech House,Sola,2020-11-27,14477010.0
+2,6:41,2020-10-16,120.0,D maj,Melodic House & Techno,NINL,2020-11-27,14323099.0
+3,5:41,2020-10-23,125.0,C min,Tech House,Glasgow Underground,2020-11-27,14350633.0
+4,5:45,2020-10-30,125.0,A♯ min,House,D4 D4NCE,2020-11-27,14385837.0
+5,6:18,2020-11-20,140.0,A min,Techno (Peak Time / Driving),KNTXT,2020-11-27,14420036.0
+6,5:18,2020-11-20,140.0,F maj,Techno (Peak Time / Driving),KNTXT,2020-11-27,14420035.0
+7,5:52,2020-11-20,126.0,C min,House,Black Book Records,2020-11-27,14454353.0
+8,6:04,2020-11-20,135.0,C min,Trance,Armada Music,2020-11-27,14432397.0
+9,6:55,2020-10-30,127.0,C maj,Melodic House & Techno,RCA Records Label,2020-11-27,14360227.0
+10,6:08,2020-10-23,125.0,C min,Tech House,Catch & Release,2020-11-27,14249902.0
+11,7:00,2020-11-20,130.0,B min,Techno (Peak Time / Driving),Terminal M,2020-11-27,14365179.0
+12,5:33,2020-10-29,124.0,A min,Tech House,Medium Rare Recordings,2020-11-27,14340168.0
+13,5:26,2020-11-20,125.0,A♭ maj,Tech House,FFRR,2020-11-27,14512902.0
+14,5:45,2020-10-30,125.0,F maj,Tech House,Sink or Swim,2020-11-27,14348118.0
+15,6:33,2020-11-20,127.0,C min,Minimal / Deep Tech,Cuttin' Headz,2020-11-27,14458735.0
+16,7:28,2020-10-26,130.0,A♯ min,Techno (Peak Time / Driving),Drumcode,2020-11-27,14312296.0
+17,6:36,2020-11-20,126.0,F♯ maj,House,REALM Records,2020-11-27,14436359.0
+18,5:43,2020-11-20,142.0,D maj,Techno (Peak Time / Driving),KNTXT,2020-11-27,14420037.0
+19,4:58,2020-11-20,124.0,A♯ min,Dance / Electro Pop,Higher Ground (Mad Decent),2020-11-27,14525139.0
+20,5:41,2020-10-23,124.0,A min,House,Defected,2020-11-27,14350949.0
+21,7:41,2020-11-16,130.0,D maj,Techno (Peak Time / Driving),Drumcode,2020-11-27,14447085.0
+22,7:31,2020-09-18,130.0,G min,Techno (Peak Time / Driving),Perfekt Groove Recordings,2020-11-27,14109015.0
+23,5:28,2020-11-20,142.0,A♯ maj,Hard Techno,KNTXT,2020-11-27,14420038.0
+24,6:13,2020-11-20,129.0,A min,Minimal / Deep Tech,Locus,2020-11-27,14458786.0
+25,5:34,2020-11-20,86.0,B min,Drum & Bass,Sofa Sound,2020-11-27,14426013.0
+26,8:37,2020-11-16,130.0,C min,Techno (Peak Time / Driving),Drumcode,2020-11-27,14447083.0
+27,6:05,2020-11-13,130.0,A min,Techno (Peak Time / Driving),Relief,2020-11-27,14498658.0
+28,6:43,2020-07-06,125.0,D maj,Melodic House & Techno,Recovery Collective,2020-11-27,13798519.0
+29,6:12,2020-10-09,125.0,A♯ maj,House,Defected,2020-11-27,14279080.0
+30,6:36,2020-09-18,126.0,A♯ maj,House,Sola,2020-11-27,14132025.0
+31,6:44,2020-10-16,124.0,D♯ min,Deep House,RADIANT.,2020-11-27,14330307.0
+32,6:51,2020-11-13,134.0,F maj,Techno (Peak Time / Driving),Exhale,2020-11-27,14398845.0
+33,6:02,2020-10-16,125.0,C min,House,Toolroom,2020-11-27,14283733.0
+34,9:12,2020-09-11,125.0,A min,Melodic House & Techno,METAPHYSICAL,2020-11-27,14043445.0
+35,5:04,2020-11-20,128.0,D♯ min,Tech House,Hot Creations,2020-11-27,14458811.0
+36,5:48,2020-10-16,124.0,G maj,Tech House,Glasgow Underground,2020-11-27,14320855.0
+37,6:53,2020-11-19,122.0,B min,Melodic House & Techno,Diynamic,2020-11-27,14461077.0
+38,8:40,2020-11-13,120.0,A♯ min,Progressive House,The Soundgarden,2020-11-27,14410470.0
+39,7:27,2020-07-31,130.0,G min,Techno (Peak Time / Driving),Reload Records,2020-11-27,13922322.0
+40,6:09,2020-10-30,125.0,G min,Tech House,Universal-Island Records Ltd.,2020-11-27,14400759.0
+41,6:29,2020-08-28,124.0,A♯ min,House,Toolroom,2020-11-27,14050560.0
+42,7:17,2020-11-19,124.0,D maj,Melodic House & Techno,Odd One Out,2020-11-27,14554737.0
+43,6:53,2020-11-12,126.0,A min,Minimal / Deep Tech,Moon Harbour Recordings,2020-11-27,14365163.0
+44,6:43,2020-11-13,126.0,A min,Tech House,Saved Records,2020-11-27,14424502.0
+45,5:19,2020-10-02,127.0,A min,Tech House,Defected,2020-11-27,14257667.0
+46,8:20,2020-11-16,123.0,D maj,Melodic House & Techno,Watergate Records,2020-11-27,14447508.0
+47,6:50,2020-10-09,125.0,D min,Progressive House,Einmusika Recordings,2020-11-27,14221208.0
+48,6:43,2020-11-20,121.0,F maj,Organic House / Downtempo,TRYBESof,2020-11-27,14397675.0
+49,7:43,2020-11-20,138.0,D maj,Trance,Reaching Altitude,2020-11-27,14398128.0
+50,4:39,2020-11-06,86.0,A♯ min,Drum & Bass,1985 Music,2020-11-27,14327394.0
+51,6:43,2020-11-13,125.0,F maj,House,Defected,2020-11-27,14438263.0
+52,7:52,2020-11-16,130.0,G min,Techno (Peak Time / Driving),Drumcode,2020-11-27,14447084.0
+53,5:49,2020-10-30,123.0,G min,Deep House,Glasgow Underground,2020-11-27,14336152.0
+54,4:54,2020-10-30,124.0,B maj,Dance / Electro Pop,Universal-Island Records Ltd.,2020-11-27,14462229.0
+55,6:30,2020-07-17,124.0,D min,Afro House,SP Recordings,2020-11-27,13781081.0
+56,8:16,2020-11-13,126.0,F maj,Melodic House & Techno,BMG Rights Management (UK) Ltd,2020-11-27,14455986.0
+57,7:27,2020-11-13,122.0,B min,Melodic House & Techno,Monkey Project,2020-11-27,14363144.0
+58,6:47,2020-11-06,126.0,F maj,Progressive House,JEE Productions,2020-11-27,14379919.0
+59,6:12,2020-11-13,126.0,F maj,Deep House,Glasgow Underground,2020-11-27,14453356.0
+60,2:55,2020-11-06,126.0,F maj,Bass House,House Call,2020-11-27,14454368.0
+61,6:23,2020-10-30,123.0,A♯ maj,Melodic House & Techno,RCA Records Label,2020-11-27,14360236.0
+62,6:22,2020-11-13,138.0,A min,Trance,Armind (Armada),2020-11-27,14409471.0
+63,4:06,2020-10-08,128.0,D♯ min,Electronica,Ninja Tune,2020-11-27,14242738.0
+64,6:16,2020-11-20,130.0,E min,Techno (Peak Time / Driving),1605,2020-11-27,14492495.0
+65,6:48,2020-11-19,124.0,D♯ maj,Melodic House & Techno,Odd One Out,2020-11-27,14554738.0
+66,7:52,2020-11-20,127.0,A min,Minimal / Deep Tech,Locus,2020-11-27,14458787.0
+67,3:24,2020-10-30,116.0,F maj,Drum & Bass,Born On Road,2020-11-27,14359576.0
+68,6:33,2020-10-23,130.0,D min,Techno (Peak Time / Driving),1605,2020-11-27,14282265.0
+69,3:46,2020-09-25,120.0,B maj,Dance / Electro Pop,Atlantic Records,2020-11-27,14278848.0
+70,8:59,2020-11-13,122.0,F maj,Progressive House,Replug,2020-11-27,14388817.0
+71,5:46,2020-11-20,130.0,A maj,Minimal / Deep Tech,Solid Grooves Raw,2020-11-27,14464351.0
+72,6:22,2020-06-26,126.0,B min,House,Defected,2020-11-27,13775146.0
+73,5:47,2020-11-20,126.0,A min,House,Toolroom,2020-11-27,14471467.0
+74,5:54,2020-08-21,121.0,C♯ min,Nu Disco / Disco,Tasty Recordings,2020-11-27,13965507.0
+75,7:30,2020-11-20,120.0,D min,Organic House / Downtempo,TRYBESof,2020-11-27,14397676.0
+76,7:23,2020-10-02,122.0,B min,Deep House,8Bit,2020-11-27,13937565.0
+77,4:22,2020-09-04,126.0,G min,Tech House,Soleado Recordings,2020-11-27,14083803.0
+78,7:38,2020-11-02,129.0,A min,Techno (Peak Time / Driving),Say What?,2020-11-27,14351220.0
+79,6:42,2020-11-16,127.0,C min,Trance,Anjunabeats,2020-11-27,14445705.0
+80,4:30,2020-10-26,175.0,A min,Drum & Bass,Jungle Cakes,2020-11-27,14267810.0
+81,5:11,2020-11-21,87.0,G min,Drum & Bass,Manifestus Entertainment,2020-11-27,14525054.0
+82,9:22,2020-11-10,128.0,E maj,Dance / Electro Pop,mau5trap,2020-11-27,14431717.0
+83,6:36,2020-11-13,130.0,D♯ min,Trance,Anjunabeats,2020-11-27,14490496.0
+84,5:27,2020-10-06,121.0,C min,Melodic House & Techno,Anjunadeep,2020-11-27,14242828.0
+85,5:27,2020-11-13,132.0,C min,Garage / Bassline / Grime,Ministry of Sound Recordings,2020-11-27,14434674.0
+86,4:07,2020-11-13,128.0,E maj,Big Room,Musical Freedom,2020-11-27,14385797.0
+87,7:22,2020-08-28,124.0,A♯ maj,House,Classic Music Company,2020-11-27,14064783.0
+88,7:23,2020-10-30,123.0,C min,Progressive House,Ready Mix Records,2020-11-27,14341458.0
+89,5:14,2020-08-07,127.0,A min,Tech House,MUSE,2020-11-27,13964651.0
+90,7:07,2020-11-20,128.0,F maj,Tech House,Kneaded Pains,2020-11-27,14552775.0
+91,4:57,2020-11-05,85.0,G maj,Drum & Bass,Souped Up Records,2020-11-27,14383288.0
+92,3:23,2020-09-25,86.0,E min,Drum & Bass,Dope Ammo,2020-11-27,14227317.0
+93,6:14,2020-11-16,125.0,G♯ maj,Progressive House,Capital Heaven,2020-11-27,14463203.0
+94,7:29,2020-10-30,123.0,D♯ min,Melodic House & Techno,RCA Records Label,2020-11-27,14360237.0
+95,7:02,2020-10-26,138.0,D♯ min,Trance,Nocturnal Knights Reworked,2020-11-27,14278711.0
+96,5:30,2020-10-23,127.0,C♯ min,Tech House,Hot Creations,2020-11-27,14312289.0
+97,7:24,2020-08-14,123.0,F maj,Progressive House,Perspectives Digital,2020-11-27,13960351.0
+98,7:09,2020-11-20,130.0,A min,Minimal / Deep Tech,Locus,2020-11-27,14458789.0
+99,4:42,2020-11-12,87.0,F min,Drum & Bass,RAM Records,2020-11-27,14424492.0
+100,5:10,2020-10-30,123.0,B min,Melodic House & Techno,RCA Records Label,2020-11-27,14360239.0
+1,6:36,2020-11-13,126.0,A♯ min,Tech House,Sola,2020-11-30,14477010.0
+2,6:04,2020-11-20,135.0,C min,Trance,Armada Music,2020-11-30,14432397.0
+3,6:41,2020-10-16,120.0,D maj,Melodic House & Techno,NINL,2020-11-30,14323099.0
+4,5:41,2020-10-23,125.0,C min,Tech House,Glasgow Underground,2020-11-30,14350633.0
+5,5:52,2020-11-20,126.0,C min,House,Black Book Records,2020-11-30,14454353.0
+6,5:45,2020-10-30,125.0,A♯ min,House,D4 D4NCE,2020-11-30,14385837.0
+7,7:00,2020-11-20,130.0,B min,Techno (Peak Time / Driving),Terminal M,2020-11-30,14365179.0
+8,5:45,2020-10-30,125.0,F maj,Tech House,Sink or Swim,2020-11-30,14348118.0
+9,5:33,2020-10-29,124.0,A min,Tech House,Medium Rare Recordings,2020-11-30,14340168.0
+10,6:55,2020-10-30,127.0,C maj,Melodic House & Techno,RCA Records Label,2020-11-30,14360227.0
+11,5:18,2020-11-20,140.0,F maj,Techno (Peak Time / Driving),KNTXT,2020-11-30,14420035.0
+12,6:18,2020-11-20,140.0,A min,Techno (Peak Time / Driving),KNTXT,2020-11-30,14420036.0
+13,5:26,2020-11-20,125.0,A♭ maj,Tech House,FFRR,2020-11-30,14512902.0
+14,6:08,2020-10-23,125.0,C min,Tech House,Catch & Release,2020-11-30,14249902.0
+15,6:36,2020-11-20,126.0,F♯ maj,House,REALM Records,2020-11-30,14436359.0
+16,6:43,2020-07-06,125.0,D maj,Melodic House & Techno,Recovery Collective,2020-11-30,13798519.0
+17,7:28,2020-10-26,130.0,A♯ min,Techno (Peak Time / Driving),Drumcode,2020-11-30,14312296.0
+18,4:58,2020-11-20,124.0,A♯ min,Dance / Electro Pop,Higher Ground (Mad Decent),2020-11-30,14525139.0
+19,5:34,2020-11-20,86.0,B min,Drum & Bass,Sofa Sound,2020-11-30,14426013.0
+20,7:41,2020-11-16,130.0,D maj,Techno (Peak Time / Driving),Drumcode,2020-11-30,14447085.0
+21,6:33,2020-11-20,127.0,C min,Minimal / Deep Tech,Cuttin' Headz,2020-11-30,14458735.0
+22,7:17,2020-11-19,124.0,D maj,Melodic House & Techno,Odd One Out,2020-11-30,14554737.0
+23,7:31,2020-09-18,130.0,G min,Techno (Peak Time / Driving),Perfekt Groove Recordings,2020-11-30,14109015.0
+24,9:12,2020-09-11,125.0,A min,Melodic House & Techno,METAPHYSICAL,2020-11-30,14043445.0
+25,6:12,2020-10-09,125.0,A♯ maj,House,Defected,2020-11-30,14279080.0
+26,5:41,2020-10-23,124.0,A min,House,Defected,2020-11-30,14350949.0
+27,6:05,2020-11-13,130.0,A min,Techno (Peak Time / Driving),Relief,2020-11-30,14498658.0
+28,6:36,2020-09-18,126.0,A♯ maj,House,Sola,2020-11-30,14132025.0
+29,5:43,2020-11-20,142.0,D maj,Techno (Peak Time / Driving),KNTXT,2020-11-30,14420037.0
+30,8:37,2020-11-16,130.0,C min,Techno (Peak Time / Driving),Drumcode,2020-11-30,14447083.0
+31,6:44,2020-10-16,124.0,D♯ min,Deep House,RADIANT.,2020-11-30,14330307.0
+32,7:42,2020-11-27,122.0,D♯ min,Melodic House & Techno,Keinemusik,2020-11-30,14474560.0
+33,6:53,2020-11-19,122.0,B min,Melodic House & Techno,Diynamic,2020-11-30,14461077.0
+34,6:12,2020-11-13,126.0,F maj,Deep House,Glasgow Underground,2020-11-30,14453356.0
+35,5:48,2020-10-16,124.0,G maj,Tech House,Glasgow Underground,2020-11-30,14320855.0
+36,6:02,2020-10-16,125.0,C min,House,Toolroom,2020-11-30,14283733.0
+37,6:16,2020-11-20,130.0,E min,Techno (Peak Time / Driving),1605,2020-11-30,14492495.0
+38,5:19,2020-10-02,127.0,A min,Tech House,Defected,2020-11-30,14257667.0
+39,7:07,2020-11-20,128.0,F maj,Tech House,Kneaded Pains,2020-11-30,14552775.0
+40,5:04,2020-11-20,128.0,D♯ min,Tech House,Hot Creations,2020-11-30,14458811.0
+41,8:16,2020-11-13,126.0,F maj,Melodic House & Techno,BMG Rights Management (UK) Ltd,2020-11-30,14455986.0
+42,7:27,2020-07-31,130.0,G min,Techno (Peak Time / Driving),Reload Records,2020-11-30,13922322.0
+43,5:47,2020-11-20,126.0,A min,House,Toolroom,2020-11-30,14471467.0
+44,6:51,2020-11-13,134.0,F maj,Techno (Peak Time / Driving),Exhale,2020-11-30,14398845.0
+45,7:27,2020-11-13,122.0,B min,Melodic House & Techno,Monkey Project,2020-11-30,14363144.0
+46,7:23,2020-10-02,122.0,B min,Deep House,8Bit,2020-11-30,13937565.0
+47,5:49,2020-10-30,123.0,G min,Deep House,Glasgow Underground,2020-11-30,14336152.0
+48,6:13,2020-11-20,129.0,A min,Minimal / Deep Tech,Locus,2020-11-30,14458786.0
+49,7:09,2020-09-25,124.0,F min,Trance,Smilax Records,2020-11-30,14269418.0
+50,4:39,2020-11-06,86.0,A♯ min,Drum & Bass,1985 Music,2020-11-30,14327394.0
+51,6:50,2020-10-09,125.0,D min,Progressive House,Einmusika Recordings,2020-11-30,14221208.0
+52,7:43,2020-11-20,138.0,D maj,Trance,Reaching Altitude,2020-11-30,14398128.0
+53,5:28,2020-11-20,142.0,A♯ maj,Hard Techno,KNTXT,2020-11-30,14420038.0
+54,6:43,2020-11-13,126.0,A min,Tech House,Saved Records,2020-11-30,14424502.0
+55,6:48,2020-11-19,124.0,D♯ maj,Melodic House & Techno,Odd One Out,2020-11-30,14554738.0
+56,6:53,2020-11-12,126.0,A min,Minimal / Deep Tech,Moon Harbour Recordings,2020-11-30,14365163.0
+57,6:09,2020-10-30,125.0,G min,Tech House,Universal-Island Records Ltd.,2020-11-30,14400759.0
+58,6:29,2020-08-28,124.0,A♯ min,House,Toolroom,2020-11-30,14050560.0
+59,6:22,2020-11-13,138.0,A min,Trance,Armind (Armada),2020-11-30,14409471.0
+60,8:40,2020-11-13,120.0,A♯ min,Progressive House,The Soundgarden,2020-11-30,14410470.0
+61,8:20,2020-11-16,123.0,D maj,Melodic House & Techno,Watergate Records,2020-11-30,14447508.0
+62,6:23,2020-10-30,123.0,A♯ maj,Melodic House & Techno,RCA Records Label,2020-11-30,14360236.0
+63,5:54,2020-08-21,121.0,C♯ min,Nu Disco / Disco,Tasty Recordings,2020-11-30,13965507.0
+64,6:30,2020-07-17,124.0,D min,Afro House,SP Recordings,2020-11-30,13781081.0
+65,5:43,2020-11-13,124.0,G♯ min,Funky / Groove / Jackin' House,Tribal Kitchen,2020-11-30,14365007.0
+66,3:46,2020-09-25,120.0,B maj,Dance / Electro Pop,Atlantic Records,2020-11-30,14278848.0
+67,6:43,2020-11-13,125.0,F maj,House,Defected,2020-11-30,14438263.0
+68,4:54,2020-10-30,124.0,B maj,Dance / Electro Pop,Universal-Island Records Ltd.,2020-11-30,14462229.0
+69,5:46,2020-11-20,130.0,A maj,Minimal / Deep Tech,Solid Grooves Raw,2020-11-30,14464351.0
+70,6:48,2020-11-27,128.0,C maj,Techno (Peak Time / Driving),Pryda Presents,2020-11-30,14516587.0
+71,7:11,2020-11-20,125.0,F maj,Melodic House & Techno,Stil Vor Talent,2020-11-30,14530094.0
+72,7:24,2020-08-14,123.0,F maj,Progressive House,Perspectives Digital,2020-11-30,13960351.0
+73,6:43,2020-11-20,121.0,F maj,Organic House / Downtempo,TRYBESof,2020-11-30,14397675.0
+74,2:55,2020-11-06,126.0,F maj,Bass House,House Call,2020-11-30,14454368.0
+75,6:47,2020-11-06,126.0,F maj,Progressive House,JEE Productions,2020-11-30,14379919.0
+76,7:23,2020-10-30,123.0,C min,Progressive House,Ready Mix Records,2020-11-30,14341458.0
+77,4:06,2020-10-08,128.0,D♯ min,Electronica,Ninja Tune,2020-11-30,14242738.0
+78,4:22,2020-09-04,126.0,G min,Tech House,Soleado Recordings,2020-11-30,14083803.0
+79,8:59,2020-11-13,122.0,F maj,Progressive House,Replug,2020-11-30,14388817.0
+80,3:24,2020-10-30,116.0,F maj,Drum & Bass,Born On Road,2020-11-30,14359576.0
+81,6:22,2020-06-26,126.0,B min,House,Defected,2020-11-30,13775146.0
+82,4:12,2020-11-19,175.0,E min,Drum & Bass,RAM Records,2020-11-30,14414888.0
+83,7:38,2020-11-02,129.0,A min,Techno (Peak Time / Driving),Say What?,2020-11-30,14351220.0
+84,4:07,2020-11-13,128.0,E maj,Big Room,Musical Freedom,2020-11-30,14385797.0
+85,5:14,2020-08-07,127.0,A min,Tech House,MUSE,2020-11-30,13964651.0
+86,5:27,2020-10-06,121.0,C min,Melodic House & Techno,Anjunadeep,2020-11-30,14242828.0
+87,7:52,2020-11-16,130.0,G min,Techno (Peak Time / Driving),Drumcode,2020-11-30,14447084.0
+88,7:02,2020-10-26,138.0,D♯ min,Trance,Nocturnal Knights Reworked,2020-11-30,14278711.0
+89,5:15,2020-10-09,125.0,D♯ min,Funky / Groove / Jackin' House,Tactical Records,2020-11-30,14281641.0
+90,6:17,2020-09-24,120.0,D min,Melodic House & Techno,Domino,2020-11-30,14264124.0
+91,7:22,2020-08-28,124.0,A♯ maj,House,Classic Music Company,2020-11-30,14064783.0
+92,8:38,2020-11-26,0.0,E min,Deep House,Shanti Radio Moscow,2020-11-30,14526753.0
+93,6:42,2020-11-16,127.0,C min,Trance,Anjunabeats,2020-11-30,14445705.0
+94,3:23,2020-09-25,86.0,E min,Drum & Bass,Dope Ammo,2020-11-30,14227317.0
+95,4:25,2020-09-24,127.0,A♯ maj,Breaks,OUTLIER,2020-11-30,14268720.0
+96,9:22,2020-11-10,128.0,E maj,Dance / Electro Pop,mau5trap,2020-11-30,14431717.0
+97,7:29,2020-10-30,123.0,D♯ min,Melodic House & Techno,RCA Records Label,2020-11-30,14360237.0
+98,6:33,2020-10-23,130.0,D min,Techno (Peak Time / Driving),1605,2020-11-30,14282265.0
+99,6:36,2020-11-13,130.0,D♯ min,Trance,Anjunabeats,2020-11-30,14490496.0
+100,6:08,2020-11-20,125.0,D min,Tech House,Glasgow Underground,2020-11-30,14486320.0
+1,6:36,2020-11-13,126,A♯ min,Tech House,Sola,2020-12-03,14477010
+2,6:41,2020-10-16,120,D maj,Melodic House & Techno,NINL,2020-12-03,14323099
+3,6:04,2020-11-20,135,C min,Trance,Armada Music,2020-12-03,14432397
+4,5:41,2020-10-23,125,C min,Tech House,Glasgow Underground,2020-12-03,14350633
+5,5:52,2020-11-20,126,C min,House,Black Book Records,2020-12-03,14454353
+6,7:00,2020-11-20,130,B min,Techno (Peak Time / Driving),Terminal M,2020-12-03,14365179
+7,5:45,2020-10-30,125,A♯ min,House,D4 D4NCE,2020-12-03,14385837
+8,5:45,2020-10-30,125,F maj,Tech House,Sink or Swim,2020-12-03,14348118
+9,6:55,2020-10-30,127,C maj,Melodic House & Techno,RCA Records Label,2020-12-03,14360227
+10,5:33,2020-10-29,124,A min,Tech House,Medium Rare Recordings,2020-12-03,14340168
+11,7:42,2020-11-27,122,D♯ min,Melodic House & Techno,Keinemusik,2020-12-03,14474560
+12,5:26,2020-11-20,125,A♭ maj,Tech House,FFRR,2020-12-03,14512902
+13,5:18,2020-11-20,140,F maj,Techno (Peak Time / Driving),KNTXT,2020-12-03,14420035
+14,6:18,2020-11-20,140,A min,Techno (Peak Time / Driving),KNTXT,2020-12-03,14420036
+15,6:36,2020-11-20,126,F♯ maj,House,REALM Records,2020-12-03,14436359
+16,6:43,2020-07-06,125,D maj,Melodic House & Techno,Recovery Collective,2020-12-03,13798519
+17,6:08,2020-10-23,125,C min,Tech House,Catch & Release,2020-12-03,14249902
+18,7:28,2020-10-26,130,A♯ min,Techno (Peak Time / Driving),Drumcode,2020-12-03,14312296
+19,4:58,2020-11-20,124,A♯ min,Dance / Electro Pop,Higher Ground (Mad Decent),2020-12-03,14525139
+20,7:17,2020-11-19,124,D maj,Melodic House & Techno,Odd One Out,2020-12-03,14554737
+21,9:12,2020-09-11,125,A min,Melodic House & Techno,METAPHYSICAL,2020-12-03,14043445
+22,7:41,2020-11-16,130,D maj,Techno (Peak Time / Driving),Drumcode,2020-12-03,14447085
+23,5:34,2020-11-20,86,B min,Drum & Bass,Sofa Sound,2020-12-03,14426013
+24,7:31,2020-09-18,130,G min,Techno (Peak Time / Driving),Perfekt Groove Recordings,2020-12-03,14109015
+25,7:09,2020-09-25,124,F min,Trance,Smilax Records,2020-12-03,14269418
+26,6:12,2020-10-09,125,A♯ maj,House,Defected,2020-12-03,14279080
+27,6:36,2020-09-18,126,A♯ maj,House,Sola,2020-12-03,14132025
+28,5:41,2020-10-23,124,A min,House,Defected,2020-12-03,14350949
+29,6:33,2020-11-20,127,C min,Minimal / Deep Tech,Cuttin' Headz,2020-12-03,14458735
+30,6:05,2020-11-13,130,A min,Techno (Peak Time / Driving),Relief,2020-12-03,14498658
+31,7:07,2020-11-20,128,F maj,Tech House,Kneaded Pains,2020-12-03,14552775
+32,6:12,2020-11-13,126,F maj,Deep House,Glasgow Underground,2020-12-03,14453356
+33,6:44,2020-10-16,124,D♯ min,Deep House,RADIANT.,2020-12-03,14330307
+34,5:19,2020-10-02,127,A min,Tech House,Defected,2020-12-03,14257667
+35,6:48,2020-11-27,128,C maj,Techno (Peak Time / Driving),Pryda Presents,2020-12-03,14516587
+36,6:53,2020-11-19,122,B min,Melodic House & Techno,Diynamic,2020-12-03,14461077
+37,7:27,2020-07-31,130,G min,Techno (Peak Time / Driving),Reload Records,2020-12-03,13922322
+38,8:37,2020-11-16,130,C min,Techno (Peak Time / Driving),Drumcode,2020-12-03,14447083
+39,5:48,2020-10-16,124,G maj,Tech House,Glasgow Underground,2020-12-03,14320855
+40,6:02,2020-10-16,125,C min,House,Toolroom,2020-12-03,14283733
+41,8:16,2020-11-13,126,F maj,Melodic House & Techno,BMG Rights Management (UK) Ltd,2020-12-03,14455986
+42,5:47,2020-11-20,126,A min,House,Toolroom,2020-12-03,14471467
+43,5:19,2020-11-27,86,G min,Drum & Bass,Must Make Music,2020-12-03,14431603
+44,6:48,2020-11-19,124,D♯ maj,Melodic House & Techno,Odd One Out,2020-12-03,14554738
+45,6:16,2020-11-20,130,E min,Techno (Peak Time / Driving),1605,2020-12-03,14492495
+46,5:43,2020-11-20,142,D maj,Techno (Peak Time / Driving),KNTXT,2020-12-03,14420037
+47,5:49,2020-10-30,123,G min,Deep House,Glasgow Underground,2020-12-03,14336152
+48,6:30,2020-07-17,124,D min,Afro House,SP Recordings,2020-12-03,13781081
+49,6:53,2020-11-12,126,A min,Minimal / Deep Tech,Moon Harbour Recordings,2020-12-03,14365163
+50,8:38,2020-11-26,0,E min,Organic House / Downtempo,Shanti Radio Moscow,2020-12-03,14526753
+51,6:29,2020-08-28,124,A♯ min,House,Toolroom,2020-12-03,14050560
+52,6:13,2020-11-20,129,A min,Minimal / Deep Tech,Locus,2020-12-03,14458786
+53,6:51,2020-11-13,134,F maj,Techno (Peak Time / Driving),Exhale,2020-12-03,14398845
+54,7:23,2020-10-02,122,B min,Deep House,8Bit,2020-12-03,13937565
+55,5:04,2020-11-20,128,D♯ min,Tech House,Hot Creations,2020-12-03,14458811
+56,4:39,2020-11-06,86,A♯ min,Drum & Bass,1985 Music,2020-12-03,14327394
+57,5:21,2020-11-13,90,B maj,Melodic House & Techno,You Plus One,2020-12-03,14445294
+58,7:43,2020-11-20,138,D maj,Trance,Reaching Altitude,2020-12-03,14398128
+59,5:43,2020-11-13,124,G♯ min,Funky / Groove / Jackin' House,Tribal Kitchen,2020-12-03,14365007
+60,6:50,2020-10-09,125,D min,Progressive House,Einmusika Recordings,2020-12-03,14221208
+61,6:20,2020-11-27,128,G min,Techno (Peak Time / Driving),We Are The Brave,2020-12-03,14487227
+62,6:43,2020-11-13,126,A min,Tech House,Saved Records,2020-12-03,14424502
+63,2:55,2020-11-06,126,F maj,Bass House,House Call,2020-12-03,14454368
+64,6:22,2020-11-13,138,A min,Trance,Armind (Armada),2020-12-03,14409471
+65,6:23,2020-10-30,123,A♯ maj,Melodic House & Techno,RCA Records Label,2020-12-03,14360236
+66,5:54,2020-08-21,121,C♯ min,Nu Disco / Disco,Tasty Recordings,2020-12-03,13965507
+67,5:28,2020-11-20,142,A♯ maj,Hard Techno,KNTXT,2020-12-03,14420038
+68,8:20,2020-11-16,123,D maj,Melodic House & Techno,Watergate Records,2020-12-03,14447508
+69,3:46,2020-09-25,120,B maj,Dance / Electro Pop,Atlantic Records,2020-12-03,14278848
+70,7:24,2020-08-14,123,F maj,Progressive House,Perspectives Digital,2020-12-03,13960351
+71,7:11,2020-11-20,125,F maj,Melodic House & Techno,Stil Vor Talent,2020-12-03,14530094
+72,4:06,2020-10-08,128,D♯ min,Electronica,Ninja Tune,2020-12-03,14242738
+73,8:40,2020-11-13,120,A♯ min,Progressive House,The Soundgarden,2020-12-03,14410470
+74,7:38,2020-11-02,129,A min,Techno (Peak Time / Driving),Say What?,2020-12-03,14351220
+75,5:14,2020-08-07,127,A min,Tech House,MUSE,2020-12-03,13964651
+76,6:22,2020-06-26,126,B min,House,Defected,2020-12-03,13775146
+77,6:09,2020-10-30,125,G min,Tech House,Universal-Island Records Ltd.,2020-12-03,14400759
+78,4:54,2020-10-30,124,B maj,Dance / Electro Pop,Universal-Island Records Ltd.,2020-12-03,14462229
+79,7:28,2020-11-20,123,B min,Melodic House & Techno,Little Idiot,2020-12-03,14517305
+80,6:43,2020-11-20,121,F maj,Organic House / Downtempo,TRYBESof,2020-12-03,14397675
+81,6:50,2020-11-25,120,A min,Organic House / Downtempo,Anjunadeep,2020-12-03,14484761
+82,5:26,2020-02-21,124,D min,House,HouseU,2020-12-03,13098550
+83,5:46,2020-11-20,130,A maj,Minimal / Deep Tech,Solid Grooves Raw,2020-12-03,14464351
+84,4:12,2020-11-19,175,E min,Drum & Bass,RAM Records,2020-12-03,14414888
+85,7:23,2020-10-30,123,C min,Progressive House,Ready Mix Records,2020-12-03,14341458
+86,4:22,2020-09-04,126,G min,Tech House,Soleado Recordings,2020-12-03,14083803
+87,4:16,2020-11-27,86,A maj,Drum & Bass,Elevate Records (UK),2020-12-03,14433745
+88,5:15,2020-10-09,125,D♯ min,Funky / Groove / Jackin' House,Tactical Records,2020-12-03,14281641
+89,6:43,2020-11-13,125,F maj,House,Defected,2020-12-03,14438263
+90,4:07,2020-11-13,128,E maj,Big Room,Musical Freedom,2020-12-03,14385797
+91,7:38,2020-11-06,128,F maj,Trance,Armada Music,2020-12-03,14409377
+92,6:47,2020-11-06,126,F maj,Progressive House,JEE Productions,2020-12-03,14379919
+93,7:02,2020-10-26,138,D♯ min,Trance,Nocturnal Knights Reworked,2020-12-03,14278711
+94,6:08,2020-11-20,125,D min,Tech House,Glasgow Underground,2020-12-03,14486320
+95,7:22,2020-08-28,124,A♯ maj,House,Classic Music Company,2020-12-03,14064783
+96,6:04,2020-05-29,129,A♯ min,Tech House,Hot Fuss,2020-12-03,13602183
+97,3:24,2020-10-30,116,F maj,Drum & Bass,Born On Road,2020-12-03,14359576
+98,3:23,2020-09-25,86,E min,Drum & Bass,Dope Ammo,2020-12-03,14227317
+99,5:27,2020-10-06,121,C min,Melodic House & Techno,Anjunadeep,2020-12-03,14242828
+100,6:14,2020-11-27,125,F♯ min,Melodic House & Techno,Afterlife Records,2020-12-03,14515807
